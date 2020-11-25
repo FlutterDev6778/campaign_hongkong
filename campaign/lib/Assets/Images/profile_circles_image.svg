@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="306" height="230.88" viewBox="0 0 306 230.88">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#74fff5"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2841" data-name="Group 2841" transform="translate(-33 -274.355)">
+    <path id="Path_2204" data-name="Path 2204" d="M217.521,748.124Z" transform="translate(-105.773 -307.356)" fill="#00e5d4" stroke="#fff" stroke-width="1" opacity="0.826"/>
+    <text id="Net_Worth" data-name="Net Worth" transform="translate(63 486)" fill="#5ffff3" font-size="12" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="-29.988" y="0">Net Worth</tspan></text>
+    <text id="Wealth_Growth" data-name="Wealth Growth" transform="translate(187.49 286.355)" fill="#5ffff3" font-size="12" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="-42.882" y="0">Wealth Growth</tspan></text>
+    <text id="Incentives" transform="translate(310 486)" fill="#5ffff3" font-size="12" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="-28.008" y="0">Incentives</tspan></text>
+    <g id="Group_2821" data-name="Group 2821" transform="translate(0 28)">
+      <g id="Group_2566" data-name="Group 2566" transform="translate(90.604 282.586)">
+        <circle id="Ellipse_706" data-name="Ellipse 706" cx="97.075" cy="97.075" r="97.075" transform="translate(0 0)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle id="Ellipse_707" data-name="Ellipse 707" cx="97.075" cy="97.075" r="97.075" transform="translate(0 0)" fill="none" stroke="#a0fff8" stroke-miterlimit="10" stroke-width="0.917"/>
+        <circle id="Ellipse_708" data-name="Ellipse 708" cx="97.075" cy="97.075" r="97.075" transform="translate(0 0)" fill="none" stroke="#a0fff8" stroke-miterlimit="10" stroke-width="0.833"/>
+        <circle id="Ellipse_709" data-name="Ellipse 709" cx="97.075" cy="97.075" r="97.075" transform="translate(0 0)" fill="none" stroke="#a0fff8" stroke-miterlimit="10" stroke-width="0.75"/>
+        <circle id="Ellipse_710" data-name="Ellipse 710" cx="97.075" cy="97.075" r="97.075" transform="translate(0 0)" fill="none" stroke="#a0fff8" stroke-miterlimit="10" stroke-width="0.667"/>
+        <circle id="Ellipse_711" data-name="Ellipse 711" cx="97.075" cy="97.075" r="97.075" transform="translate(0 0)" fill="none" stroke="#a0fff8" stroke-miterlimit="10" stroke-width="0.583"/>
+        <circle id="Ellipse_716" data-name="Ellipse 716" cx="87.089" cy="87.089" r="87.089" transform="translate(9.986 9.986)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.333"/>
+        <circle id="Ellipse_717" data-name="Ellipse 717" cx="77.103" cy="77.103" r="77.103" transform="translate(19.972 19.972)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.417"/>
+        <circle id="Ellipse_718" data-name="Ellipse 718" cx="67.117" cy="67.117" r="67.117" transform="translate(29.958 29.958)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"/>
+        <circle id="Ellipse_719" data-name="Ellipse 719" cx="57.131" cy="57.131" r="57.131" transform="translate(39.944 39.944)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.583"/>
+        <circle id="Ellipse_720" data-name="Ellipse 720" cx="47.145" cy="47.145" r="47.145" transform="translate(49.93 49.93)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.667"/>
+        <circle id="Ellipse_721" data-name="Ellipse 721" cx="37.159" cy="37.159" r="37.159" transform="translate(59.916 59.916)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75"/>
+        <circle id="Ellipse_722" data-name="Ellipse 722" cx="27.173" cy="27.173" r="27.173" transform="translate(69.902 69.902)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.833"/>
+        <circle id="Ellipse_723" data-name="Ellipse 723" cx="17.187" cy="17.187" r="17.187" transform="translate(79.888 79.888)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.917"/>
+        <circle id="Ellipse_724" data-name="Ellipse 724" cx="7.201" cy="7.201" r="7.201" transform="translate(89.874 89.874)" fill="none" stroke="#a0fff8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_2820" data-name="Group 2820">
+        <rect id="Rectangle_1324" data-name="Rectangle 1324" width="4" height="112" rx="2" transform="translate(186 269)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_1325" data-name="Rectangle 1325" width="4" height="113" rx="2" transform="translate(285.93 434.018) rotate(120)" opacity="0.973" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_1326" data-name="Rectangle 1326" width="4" height="112" rx="2" transform="translate(93.069 436.482) rotate(-120)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

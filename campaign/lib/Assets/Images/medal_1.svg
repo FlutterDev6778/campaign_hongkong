@@ -1,0 +1,15 @@
+<svg id="Group_2422" data-name="Group 2422" xmlns="http://www.w3.org/2000/svg" width="91.822" height="148.545" viewBox="0 0 91.822 148.545">
+  <rect id="Rectangle_1266" data-name="Rectangle 1266" width="91.822" height="16.906" fill="#2b2c2c"/>
+  <g id="Group_2420" data-name="Group 2420" transform="translate(10.244 20.618)">
+    <path id="Path_2024" data-name="Path 2024" d="M108.388,1093.67v50.984L98.7,1155.1l-10.285,11.1h-32.3l-10.285-11.616-8.784-9.924V1093.67Z" transform="translate(-37.049 -1093.67)" fill="#004871"/>
+    <path id="Path_2025" data-name="Path 2025" d="M103.781,1093.67V1155.1l-10.285,11.1h-32.3l-10.285-11.616V1093.67Z" transform="translate(-42.126 -1093.67)" fill="#f9b129"/>
+    <rect id="Rectangle_1267" data-name="Rectangle 1267" width="32.301" height="72.524" transform="translate(19.069)" fill="#6ab88f"/>
+  </g>
+  <g id="Group_2421" data-name="Group 2421" transform="translate(20.018 96.751)">
+    <path id="Path_2026" data-name="Path 2026" d="M104.259,1243.662l-21.931,21.931-7.865,0-21.87-21.87v-7.869h-.122l22.053-22.053v.122l7.865,0,21.87,21.87Z" transform="translate(-52.471 -1213.805)" fill="#f9b129"/>
+    <path id="Path_2027" data-name="Path 2027" d="M63.664,1244.94v-2.216L81.388,1225H83.6l17.787,17.788v2.086l-17.848,17.849H81.448Z" transform="translate(-56.571 -1217.906)" fill="#c4903b"/>
+    <rect id="Rectangle_1268" data-name="Rectangle 1268" width="20.591" height="20.591" transform="matrix(0.707, -0.707, 0.707, 0.707, 11.362, 25.927)" fill="#f9b129"/>
+  </g>
+  <rect id="Rectangle_1269" data-name="Rectangle 1269" width="91.822" height="8.453" fill="#474747"/>
+  <path id="Path_2028" data-name="Path 2028" d="M108.388,1093.67v26.211l-71.339-19.354v-6.857Z" transform="translate(-26.805 -1073.052)" fill="#474747" opacity="0.23" style="mix-blend-mode: multiply;isolation: isolate"/>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="401" viewBox="0 0 300 401">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7c41b"/>
+      <stop offset="0.281" stop-color="#13d3b5"/>
+      <stop offset="0.601" stop-color="#0665a0"/>
+      <stop offset="1" stop-color="#00122e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.145" y1="0.5" x2="1.087" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1aa25"/>
+      <stop offset="0.33" stop-color="#d5d5d5" stop-opacity="0.671"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.145" y1="0.5" x2="1.087" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6ff1d"/>
+      <stop offset="0.33" stop-color="#d5d5d5" stop-opacity="0.671"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.145" y1="0.5" x2="1.087" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7bb621"/>
+      <stop offset="0.33" stop-color="#d5d5d5" stop-opacity="0.671"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.145" y1="0.5" x2="1.087" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#15957f"/>
+      <stop offset="0.33" stop-color="#d5d5d5" stop-opacity="0.671"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.145" y1="0.5" x2="1.087" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#117d93"/>
+      <stop offset="0.33" stop-color="#d5d5d5" stop-opacity="0.671"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.145" y1="0.5" x2="1.087" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0c2fa3"/>
+      <stop offset="0.33" stop-color="#d5d5d5" stop-opacity="0.671"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="rank" transform="translate(-28 -243)">
+    <path id="Polygon_63" data-name="Polygon 63" d="M120.6,34.627c3.62-11,19.177-11,22.8,0L258.815,385.248A12,12,0,0,1,247.416,401H16.584a12,12,0,0,1-11.4-15.752Z" transform="translate(64 243)" fill="#fff" opacity="0.339"/>
+    <path id="Path_2259" data-name="Path 2259" d="M-4463.571-15780.5l-116.7,350.64,2.082,4.094,230.5.862,3.64-6.872-115.6-348.724Z" transform="translate(4660 16059)" fill="url(#linear-gradient)"/>
+    <g id="Group_2550" data-name="Group 2550" transform="translate(76.486 276.928)">
+      <path id="Path_2246" data-name="Path 2246" d="M1917,250.926H1689.675a6.524,6.524,0,0,1-6.2-8.565l113.663-345.829a6.485,6.485,0,0,1,2.492-3.358,6.634,6.634,0,0,1,7.386-.017,6.526,6.526,0,0,1,2.524,3.4L1923.2,242.364h0a6.523,6.523,0,0,1-6.2,8.563Zm-183.8-147.2-1.972,6-44,133.87a2.572,2.572,0,0,0,2.442,3.375H1917a2.57,2.57,0,0,0,2.446-3.373v0L1814.586-75.442l1.867-.652-1.878.618-8.794-26.756a2.554,2.554,0,0,0-.98-1.337,2.667,2.667,0,0,0-2.95.018,2.506,2.506,0,0,0-.947,1.3Z" transform="translate(-1683.151 107.958)" fill="#faffff"/>
+    </g>
+    <rect id="Rectangle_1309" data-name="Rectangle 1309" width="113" height="3" rx="1.5" transform="translate(86 329)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_1328" data-name="Rectangle 1328" width="62" height="3" rx="1.5" transform="translate(136 277)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_1310" data-name="Rectangle 1310" width="113" height="3" rx="1.5" transform="translate(73 383)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_1311" data-name="Rectangle 1311" width="113" height="3" rx="1.5" transform="translate(59 455)" fill="url(#linear-gradient-5)"/>
+    <rect id="Rectangle_1327" data-name="Rectangle 1327" width="113" height="3" rx="1.5" transform="translate(44 525)" fill="url(#linear-gradient-6)"/>
+    <rect id="Rectangle_1312" data-name="Rectangle 1312" width="113" height="3" rx="1.5" transform="translate(28 632)" fill="url(#linear-gradient-7)"/>
+    <g id="Group_2553" data-name="Group 2553" transform="translate(115.5 520.777)">
+      <rect id="Rectangle_1308" data-name="Rectangle 1308" width="167.3" height="3.954" transform="translate(-2 4)" fill="#f5f5f5"/>
+    </g>
+    <g id="Group_2552" data-name="Group 2552" transform="translate(135.055 454.395)">
+      <rect id="Rectangle_1307" data-name="Rectangle 1307" width="123.238" height="3.954" fill="#f5f5f5"/>
+    </g>
+    <g id="Group_2569" data-name="Group 2569" transform="translate(149.904 404.334)">
+      <rect id="Rectangle_1306" data-name="Rectangle 1306" width="76.06" height="3.954" transform="translate(8 -22)" fill="#f5f5f5"/>
+    </g>
+    <g id="Group_2551" data-name="Group 2551" transform="translate(168.34 350.334)">
+      <rect id="Rectangle_1306-2" data-name="Rectangle 1306" width="39.178" height="3.954" transform="translate(9 -22)" fill="#f5f5f5"/>
+    </g>
+    <text id="_15_" data-name="15%" transform="translate(103 322)" fill="#fff" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="-14.84" y="0">15%</tspan></text>
+    <text id="_1_" data-name="1%" transform="translate(147 269)" fill="#fff" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="-10.68" y="0">1%</tspan></text>
+    <text id="_30_" data-name="30%" transform="translate(91 375)" fill="#fff" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="-14.84" y="0">30%</tspan></text>
+    <text id="_50_" data-name="50%" transform="translate(77 448)" fill="#fff" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="-14.84" y="0">50%</tspan></text>
+    <text id="_70_" data-name="70%" transform="translate(62 518)" fill="#fff" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="-14.84" y="0">70%</tspan></text>
+    <text id="_100_" data-name="100%" transform="translate(49 625)" fill="#fff" font-size="16" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="-19" y="0">100%</tspan></text>
+  </g>
+</svg>
